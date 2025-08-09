@@ -1,0 +1,25 @@
+.title{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.container-button{
+    gap: 10px;
+    display: grid;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.gato-gif{
+    width: 350px;
+    height: 250px;
+}
+
+.container-gif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}

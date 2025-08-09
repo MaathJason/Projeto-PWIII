@@ -3,7 +3,7 @@ import Surskityft from "../../assets/surskity.jpg"
 
 function Surskity(){
     return(
-        <img style={{height: "350px", width:"550px"}} src={Surskityft} />
+        <img style={{height: "300px", width:"100%"}} src={Surskityft} />
     )
 }
 
